@@ -1,4 +1,4 @@
-# Detecting Spam Emails
+# Detecting Spam Emails - Machine Learning Project
 Folder containing my Machine Learning Projects
 
 
